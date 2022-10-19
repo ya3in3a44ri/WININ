@@ -1,5 +1,5 @@
 # WININ
 Windows OS Information Gathering
 just run it and see RESULT.TXT file ;)
-
-have a good time![Uploading Capture.PNG…]()
+![Capture](https://user-images.githubusercontent.com/115831872/196684689-fa6f02e1-7f39-4784-9019-2632b56588fe.PNG)
+have a good time
