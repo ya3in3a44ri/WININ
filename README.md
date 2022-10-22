@@ -2,13 +2,7 @@
 [RedBlueZone For IRanian People](https://redbluezone.top)
 
 This tool is for collecting information from a Windows operating system.
-# Install
-**Install Libraries**
-``` python
-pip install colorama
-```
-OR **Download .EXE file from Releases**
-# Output
+
 After running the tool, the operation will be finished after a few moments and a file called RESULT.TXT will be created for you, in which all the obtained information is stored.
 
 ![Capture](https://user-images.githubusercontent.com/115831872/196689603-0b579e01-1bb6-4917-b8dc-93ea2e365b61.PNG)
@@ -49,3 +43,11 @@ After running the tool, the operation will be finished after a few moments and a
     - [X] Firewall profiles
     - [X] Share folders
     - [X] URLACL
+# Installation
+**Install Libraries**
+``` python
+pip install colorama
+```
+OR **Download .EXE file from Releases**
+# Getting started
+Just run the tool and see the results in the RESULT.TXT file.
