@@ -48,6 +48,9 @@ After running the tool, the operation will be finished after a few moments and a
 ``` python
 pip install colorama
 ```
+``` python
+python WININ.py
+```
 OR **Download .EXE file from Releases**
 # Getting started
 Just run the tool and see the results in the RESULT.TXT file.
