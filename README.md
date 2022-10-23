@@ -1,5 +1,4 @@
 ![WININ(1)](https://user-images.githubusercontent.com/115831872/197338999-b849d44e-5c5b-415a-ac2e-26232d358577.png)
-[RedBlueZone For IRanian People](https://redbluezone.top)
 
 This tool is for collecting information from a Windows operating system.
 
