@@ -3,7 +3,7 @@
 This tool is for collecting information from a Windows operating system.
 
 After running the tool, the operation will be finished after a few moments and a file called RESULT.TXT will be created for you, in which all the obtained information is stored.
-
+# Screenshots
 ![Capture](https://user-images.githubusercontent.com/115831872/196689603-0b579e01-1bb6-4917-b8dc-93ea2e365b61.PNG)
 # Features
 - **Information Gathering**
